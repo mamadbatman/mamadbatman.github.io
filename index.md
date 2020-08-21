@@ -1,15 +1,24 @@
 
 <img src="http://s10.picofile.com/file/8406319476/PicsArt_04_07_11_15_15.jpg"> <br>
-First name : Mohammad <br>
-Last name : amiri <br>
-E-mail : Mohammadboomer@gmail.com <br>
-Phone number : 09335444712 <br>
+
 
 <h3 id="intro">Intro</h3>
 
 <hr />
 
 <ul>
+   <li>First name
+    <ul>
+      <li>Mohammad</li>
+    </ul>
+  </li>
+     <li>Last name
+    <ul>
+      <li>amiri</li>
+    </ul>
+  </li>
+  
+  
   <li>BirthDate
     <ul>
       <li>18/9/2000</li>
