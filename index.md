@@ -69,5 +69,9 @@
 <ul>
   <li>https://quera.ir/profile/mohammadboomer</li>
 </ul>
+<h3 id="resume-assessment">Resume Assessment</h3>
 
+<hr />
+
+<p><a href="http://s10.picofile.com/d/8406322250/23cdc38a-0df9-46f6-ac7f-d4954239709e/XX_CV_CheckList_AR_3983_1_.docx">Resume</a></p>
 
